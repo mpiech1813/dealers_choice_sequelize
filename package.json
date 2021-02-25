@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^8.5.1",
+    "router": "^1.3.5",
+    "sequelize": "^6.5.0"
+  },
+  "scripts": {
+    "start": "nodemon server"
+  },
+  "name": "dealers_choice_sequelize",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mpiech1813/dealers_choice_sequelize.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mpiech1813/dealers_choice_sequelize/issues"
+  },
+  "homepage": "https://github.com/mpiech1813/dealers_choice_sequelize#readme",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
