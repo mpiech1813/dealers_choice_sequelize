@@ -7,8 +7,7 @@
   },
   "scripts": {
     "start:dev": "nodemon server",
-    "start": "node server",
-    "build": "webpack"
+    "start": "node server"
   },
   "name": "dealers_choice_sequelize",
   "version": "1.0.0",
