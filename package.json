@@ -6,7 +6,8 @@
     "sequelize": "^6.5.0"
   },
   "scripts": {
-    "start": "nodemon server"
+    "start": "nodemon server",
+    "build": "webpack"
   },
   "name": "dealers_choice_sequelize",
   "version": "1.0.0",
@@ -24,6 +25,8 @@
   "homepage": "https://github.com/mpiech1813/dealers_choice_sequelize#readme",
   "description": "",
   "devDependencies": {
-    "nodemon": "^2.0.7"
+    "nodemon": "^2.0.7",
+    "webpack": "^5.24.2",
+    "webpack-cli": "^4.5.0"
   }
 }
